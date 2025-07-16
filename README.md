@@ -19,11 +19,12 @@ I'm a student in Aerospace Engineering and a budding Developer focused on Python
 
 ---
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=viniciusdias&theme=tokyonight&hide_border=true&mode=weekly" />
+  <img width="600" src="https://streak-stats.demolab.com?user=cmdi4s&theme=gotham&hide_border=true&mode=weekly" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusdias&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdias&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <a href="https://github.com/cmdi4s">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cmdi4s&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmdi4s&layout=compact&langs_count=7&theme=gotham"/>
+</div>
 
 
