@@ -21,6 +21,7 @@ I'm a student in Aerospace Engineering and a budding Developer focused on Python
 <p align="center">
   <img width="600" src="https://streak-stats.demolab.com?user=cmdi4s&theme=gotham&hide_border=true&mode=weekly" />
 </p>
+
 <div align="center">
   <a href="https://github.com/cmdi4s">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cmdi4s&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
